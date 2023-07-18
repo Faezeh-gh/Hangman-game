@@ -11,6 +11,6 @@ guesses is a list of letters which we guess.
 
 In while loop, we code how to show a word after user guesses. 
 
-in line , we alarm user the error if there was any. 
+in line 27, we alarm user the error if there was any. 
 
 If the letter that user guesses was right we show it in output, but if it wasn't a right guess we should decrease the number of tries.
